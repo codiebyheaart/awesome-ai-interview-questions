@@ -94,6 +94,23 @@ Transformers use **self-attention mechanisms** to process sequences in parallel 
 
 ---
 
+### Q4: What are practical Claude use cases you would propose in an interview?
+
+**Answer:**
+Interviewers often want to hear concrete, business-aligned use cases and how you'd evaluate them. Strong examples include:
+1. **Customer support copilots** - Draft responses, summarize ticket history, and suggest next actions with human approval.
+2. **Knowledge base search + summarization** - Retrieve internal docs, summarize policies, and cite sources in answers.
+3. **Document review** - Extract clauses, highlight risks, and compare versions of legal or compliance documents.
+4. **Agentic workflows** - Orchestrate multi-step tasks like form filling, report generation, or data cleanup with guardrails.
+5. **Code assistance** - Generate scaffolding, explain legacy code, or produce test cases for safer refactors.
+
+**How to evaluate in an interview:**
+- Define **success metrics** (resolution time, accuracy, deflection rate, cost per ticket).
+- Establish **human-in-the-loop** checkpoints for high-risk tasks.
+- Use **retrieval augmentation** for factuality and **audit logs** for compliance.
+
+---
+
 ## 🔍 Natural Language Processing
 
 ### Q5: What is the difference between BERT and GPT?
